@@ -1,0 +1,13 @@
+{
+	"name": "koa2-mysql",
+	"version": "0.0.1",
+	"description": "使用Node.js的koa2框架搭建的后端服务器",
+	"main": "app.js",
+	"dependencies": {
+		"koa": "2.0.0",
+        "koa-router": "7.0.0",
+        "koa-bodyparser": "3.2.0",
+		"sequelize": "3.24.1",
+		"mysql": "2.11.1"
+	}
+}
