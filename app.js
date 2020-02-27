@@ -35,5 +35,11 @@ connection.connect();
 global.sqR = require('./js/sqR.js');
 global.retJson = require('./js/retJson.js');
 
-app.listen(3000);
-console.log('app started at port 3000...');
+app.listen(1019);
+console.log('app started at port 1019...');
+
+/*
+
+啥时候开学能去找我的小丫头呢……
+
+*/
