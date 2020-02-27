@@ -1,5 +1,5 @@
-<h1>NodeMySQLBackstage</h1>
-<p>暂且把这个个人项目叫<b>NodeMySQLBackstage</b>吧，我还没想到更好的名字。</p>
+<h1>NodeMyBackstage</h1>
+<p>暂且把这个个人项目叫<b>NodeMyBackstage</b>吧，我还没想到更好的名字。</p>
 <p>这是一个基于koa2、mysql的后台框架，它允许用户直接在浏览器的URL输入栏来操作MySQL数据库，并且将返回的JSON数组显示在浏览器上。同样，因为所有的MySQL指令都在URL上，我们还可以通过Axios异步请求数据库的内容。</p>
 
 <h2>安装</h2>
