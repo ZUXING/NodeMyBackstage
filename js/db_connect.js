@@ -1,7 +1,7 @@
 var mysql = require('mysql');
 
 var db_connect = mysql.createConnection({
-    database: 'db_pcexp', // 使用哪个数据库
+    database: '', // 使用哪个数据库
     user: 'root', // 用户名
     password: '', // 口令
     host: 'localhost', // 主机名
