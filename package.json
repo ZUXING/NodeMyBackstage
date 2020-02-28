@@ -1,6 +1,6 @@
 {
   "name": "nodemybackstage",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "description": "Node.js+koa2+Mysql搭建的后端服务器",
   "main": "app.js",
   "dependencies": {
